@@ -1,0 +1,25 @@
+{
+  "name": "vapi-mock-server",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "^1.1.6",
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@stoplight/prism-cli": "^5.8.2",
+    "@stoplight/prism-http": "^5.8.2",
+    "fs": "^0.0.1-security",
+    "json-refs": "^3.0.15",
+    "json-schema-faker": "^0.5.6",
+    "json-schema-ref-parser": "^9.0.9",
+    "json-schema-to-zod": "^2.3.0",
+    "path": "^0.12.7",
+    "prettier": "^3.3.2",
+    "url": "^0.11.3",
+    "zod": "^3.23.8"
+  }
+}
