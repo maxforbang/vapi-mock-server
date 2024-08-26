@@ -10,6 +10,7 @@
     "typescript": "^5.0.0"
   },
   "dependencies": {
+    "@faker-js/faker": "^8.4.1",
     "@stoplight/prism-cli": "^5.8.2",
     "@stoplight/prism-http": "^5.8.2",
     "fs": "^0.0.1-security",
